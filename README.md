@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 
+[![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=muchovelli)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ### 🛠 &nbsp;Tech Stack
 
