@@ -17,7 +17,7 @@ I am a beginner Full Stack Developer <img src="https://media.giphy.com/media/WUl
 - 🔭 I’m learning frontend and backend for building web applications.
 - 🌱 SEO enthusiast.
 - ⚡ Currently studying at Jagiellonian University.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adam-da%C5%84da-97706121a/)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Adam-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adam-da%C5%84da-97706121a/)
 
 ---
 
