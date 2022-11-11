@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/adam-da%C5%84da-97706121a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
-<p align="center">>
+<p align="center">
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=muchovelli&style=flat-square&color=blue" alt=""></p>
 
@@ -23,7 +23,6 @@ I am a beginner Full Stack Developer <img src="https://media.giphy.com/media/WUl
 
 ### 🛠 &nbsp;Languages and Tools :
 
-<p>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
@@ -31,7 +30,7 @@ I am a beginner Full Stack Developer <img src="https://media.giphy.com/media/WUl
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
-</p>
+
 
 ---
 
