@@ -22,6 +22,17 @@ I am a beginner Full Stack Developer <img src="https://media.giphy.com/media/WUl
 
 ---
 
+### Currently working on:
+
+ - [Invoice generator](https://github.com/muchovelli/Invoice-Generator) - Simple CRUD application, using Java, Spring Boot and SQL.
+
+#### Completed:
+ - [DFS Maze Generator](https://github.com/muchovelli/DFS-Maze-Generator) - Algorithms and data structures project for Jagiellonian University course
+ - [Smarthpone Store](https://github.com/muchovelli/SmartphoneStore) - Basic CRUD application using java,spring and sql
+ - [Pet Clinic](https://github.com/muchovelli/Spring5-Pet-Clinic) - Excercise project from Spring Framework Guru
+
+---
+
 ### 🛠 &nbsp;Languages and Tools :
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
