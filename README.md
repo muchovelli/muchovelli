@@ -1,55 +1,21 @@
-
-
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/adam-da%C5%84da-97706121a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
-<p align="center">
-</p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=muchovelli&style=flat-square&color=blue" alt=""></p>
-
-### :woman_technologist: &nbsp;About Me :
-
-I am a beginner Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Krakow, Poland.
-
-- 🔭 I’m learning frontend and backend for building web applications.
-- 🌱 SEO enthusiast.
-- ⚡ Currently studying at Jagiellonian University.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Adam-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adam-da%C5%84da-97706121a/)
 
 ---
 
 ### Currently working on:
 
  - [Invoice generator](https://github.com/muchovelli/Invoice-Generator) - Simple CRUD application, using Java, Spring Boot and SQL.
+ - [Haker Rank](https://github.com/muchovelli/Haker-Rank) - exercises from HakerRank
+ - [Python University Course](https://github.com/muchovelli/FAIS_Python) - Jagiellonian University Python course
 
 #### Completed:
  - [DFS Maze Generator](https://github.com/muchovelli/DFS-Maze-Generator) - Algorithms and data structures project for Jagiellonian University course
  - [Smarthpone Store](https://github.com/muchovelli/SmartphoneStore) - Basic CRUD application using java,spring and sql
  - [Pet Clinic](https://github.com/muchovelli/Spring5-Pet-Clinic) - Excercise project from Spring Framework Guru
-
----
-
-### 🛠 &nbsp;Languages and Tools :
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
-
-
----
+ - [Elevator System Managment](https://github.com/muchovelli/Elevator-Management-System) - Interview project about elevator managment
 
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muchovelli&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muchovelli&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
