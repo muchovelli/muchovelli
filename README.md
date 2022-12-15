@@ -14,9 +14,6 @@
  - [Pet Clinic](https://github.com/muchovelli/Spring5-Pet-Clinic) - Excercise project from Spring Framework Guru
  - [Elevator System Managment](https://github.com/muchovelli/Elevator-Management-System) - Interview project about elevator managment
 
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muchovelli&theme=dark&background=000000)](https://git.io/streak-stats)
-
 ---
 
 
