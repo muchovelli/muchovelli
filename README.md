@@ -4,6 +4,7 @@
 
 ### Currently working on:
 
+ - [[Beetroot Forum]](https://github.com/muchovelli/Beetroot-Forum) - Forum based on the use of GPG key cryptography
  - [Invoice Generator](https://github.com/muchovelli/Invoice-Generator) - Simple CRUD application, using Java, Spring Boot and SQL.
  - [Coding Challenges](https://github.com/muchovelli/Coding-Challenges) - exercises from HakerRank and LeetCode
  - [Python University Course](https://github.com/muchovelli/FAIS_Python) - Jagiellonian University Python course
