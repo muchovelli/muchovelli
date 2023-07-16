@@ -7,10 +7,11 @@
  - [Beetroot Forum](https://github.com/muchovelli/Beetroot-Forum) - Forum based on the use of GPG key cryptography
  - [Invoice Generator](https://github.com/muchovelli/Invoice-Generator) - Simple CRUD application, using Java, Spring Boot and SQL.
  - [Coding Challenges](https://github.com/muchovelli/Coding-Challenges) - exercises from HakerRank and LeetCode
- - [Python University Course](https://github.com/muchovelli/FAIS_Python) - Jagiellonian University Python course
+
 
 #### Completed:
  - [DFS Maze Generator](https://github.com/muchovelli/DFS-Maze-Generator) - Algorithms and data structures project for Jagiellonian University course
+ - [Python University Course](https://github.com/muchovelli/FAIS_Python) - Jagiellonian University Python course
  - [Smarthpone Store](https://github.com/muchovelli/SmartphoneStore) - Basic CRUD application using java,spring and sql
  - [Pet Clinic](https://github.com/muchovelli/Spring5-Pet-Clinic) - Excercise project from Spring Framework Guru
  - [Elevator System Managment](https://github.com/muchovelli/Elevator-Management-System) - Interview project about elevator managment
